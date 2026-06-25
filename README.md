@@ -75,8 +75,6 @@ Tech Stack: Python, TensorFlow, OpenCV
 
 📜 Certifications
 
-🏆 Add your certificates here
-
 - Project Completion Certificate – Adarsh Infotech (2024)
 
 ---
