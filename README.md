@@ -1,89 +1,115 @@
-<h1 align="center">Hi 👋 I'm Kranti Patil</h1>
+<h1 align="center">Hi 👋, I'm Kranti Patil</h1><h3 align="center">
+Data Science Student | AI & Machine Learning | Python | SQL
+</h3><p align="center">
+Open to Internship & Fresher Opportunities 🚀
+</p>---
 
-<h3 align="center">Data Science Student | AI & Machine Learning Enthusiast</h3>
+👩‍💻 About Me
 
----
+🎓 MCA Student
 
-## 👩‍💻 About Me
+📊 Aspiring Data Scientist with interest in Data Analytics, Machine Learning, and AI
 
-🎓 MCA Student at Jain University, Bangalore  
-📊 Aspiring Data Scientist  
-💡 Interested in Data Analytics, Machine Learning & AI  
-🌱 Currently learning Data Science and building projects  
-🚀 Open to Internship & Fresher Opportunities  
+💡 Passionate about solving real-world problems using data
 
----
-
-## 🛠️ Skills
-
-💻 Languages  
-- Python  
-- SQL  
-
-📈 Data Analytics  
-- Excel  
-- Power BI  
-
-🗄️ Database  
-- MySQL  
-
-📚 Libraries  
-- Pandas  
-- NumPy  
-- Matplotlib  
-
-🧰 Tools  
-- VS Code  
-- Jupyter Notebook  
-- Git & GitHub  
+🌱 Currently improving skills in Python, SQL, Machine Learning, and Data Visualization
 
 ---
 
-## 🚀 Projects
+🛠 Skills
 
-### 🔐 Phishing Attack Detection & Prevention
-**Tech:** Python, Django  
+Programming
 
-✔ Built phishing detection system  
-✔ Identified malicious URLs  
-✔ Improved security detection  
+- Python
+- SQL
+
+Data Analytics
+
+- Excel
+- Power BI
+
+Database
+
+- MySQL
+
+Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+
+Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
-### 🎭 Deep Fake Image Detection with Explainable AI
-**Tech:** Python, TensorFlow, OpenCV, XAI  
+🚀 Featured Projects
 
-✔ Developed deep learning model  
-✔ Applied Explainable AI  
-✔ Improved prediction understanding  
+🔐 Attribute-Based Detecting & Prevention of Phishing Attacks
+
+Tech Stack: Python, Django
+
+✔ Developed phishing detection system
+
+✔ Improved malicious URL identification
+
+✔ Enhanced web security detection
 
 ---
 
-## 📚 Education
+🎭 Deep Fake Image Detection with Explainable Analytics
 
-🎓 MCA – Jain University, Bangalore  
-CGPA: 8.14 (Current)
+Tech Stack: Python, TensorFlow, OpenCV
 
-🎓 BCA – Muktambika College  
+✔ Built deep learning-based detection model
+
+✔ Applied Explainable AI concepts
+
+✔ Improved prediction transparency
+
+---
+
+📜 Certifications
+
+🏆 Add your certificates here
+
+- Project Completion Certificate – Adarsh Infotech (2024)
+
+---
+
+📚 Education
+
+🎓 Master of Computer Applications (MCA)
+Jain University, Bangalore
+CGPA: 8.14
+
+🎓 Bachelor of Computer Applications (BCA)
+Muktambika College
 CGPA: 8.9
 
 ---
 
-## 🌱 Currently Learning
+🌱 Currently Learning
 
-- Machine Learning  
-- Data Visualization  
-- Deep Learning  
-- Data Analysis  
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Data Visualization
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 
-📧 Email: krantisureshpatil2004@gmail.com  
+📧 krantisureshpatil2004@gmail.com
+
 💼 LinkedIn: in/kranti-patil-b25913281
- 
 
 ---
 
-⭐ “Learning today, building tomorrow.”
+<p align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</p>
